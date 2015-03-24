@@ -1,0 +1,6 @@
+[submodule "AHK-ToolKit"]
+	path = AHK-ToolKit
+	url = https://github.com/richparsonsx/AHK-ToolKit.git
+[submodule "AHKs"]
+	path = AHKs
+	url = https://github.com/richparsonsx/AHKs.git
